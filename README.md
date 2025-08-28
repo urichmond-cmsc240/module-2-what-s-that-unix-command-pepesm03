@@ -12,7 +12,7 @@ For each image below, the command is blocked out. Write your answer as the UNIX 
 ![img1](imgs/img1.png)
 
 ```
-Your answer here
+ls
 ```
 --- 
 
