@@ -36,7 +36,7 @@ rm
 ![img4](imgs/img4.png)
 
 ```
-mv
+touch
 ```
 --- 
 
